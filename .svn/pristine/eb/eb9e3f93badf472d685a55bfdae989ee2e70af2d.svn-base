@@ -1,0 +1,24 @@
+﻿
+PAExec v1.26 - Execute Programs Remotely
+Copyright (c) 2012-2013 Power Admin LLC
+www.poweradmin.com/PAExec
+
+
+Connecting to 192.168.0.140...
+Starting PAExec service on 192.168.0.140...
+
+Remote app failed to start.  Returned error:
+  Error logging in as Administrator The user name or password is incorrect. [Err=0x52E, 1326]
+
+
+PAExec returning exit code -9
+
+
+PAExec v1.26 - Execute Programs Remotely
+Copyright (c) 2012-2013 Power Admin LLC
+www.poweradmin.com/PAExec
+
+
+Connecting to 192.168.0.140...
+Starting PAExec service on 192.168.0.140...
+
